@@ -3,6 +3,12 @@ Final output for CCDSTRU of SY 24-25
 
 Uploaded for archival purposes
 
+How to run:
+  1. Run cmd in the MP folder
+  2. Type javac DSTRU.java to compile the program
+  3. Type java DSTRU to run the program
+  4. Win
+
 Rules of the game:
   1. The game will be played by 3 players: Tres, Uno, Dos in their respective order
   2. Tres and Uno must claim an unclaimed tile and form a certain pattern
