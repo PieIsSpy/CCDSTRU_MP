@@ -16,7 +16,7 @@ Rules of the game:
   4. If Tres or Uno completed a formation, Tres or Uno will win.
   5. If there are no more occupied tiles and there were no formations made, Dos will win.
 
-Winning Formations:
+Winning Formations (look for coordinates enclosed with brackets):
 
 Subset 1
 ```
